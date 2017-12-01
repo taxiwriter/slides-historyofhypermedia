@@ -3,5 +3,4 @@ titel: slides history of hypermedia
 author: heinz wittenbrink
 ---
 
-# slides-historyofhypermedia
-Slide for education purpose
+Slide for education purpose, originally written by [heinz wittenbrink](https://github.com/heinzwittenbrink)
