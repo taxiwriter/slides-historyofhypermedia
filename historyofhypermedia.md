@@ -35,6 +35,10 @@ GitHub repository: https://github.com/heinzwittenbrink/slides-historyofhypermedi
 
 # The concept of linked information
 
+## Control of Vannevar Bush
+
+> Das ist alles was Kontrolle ausmacht!
+
 ## Vannevar Bush: Memex
 
 
