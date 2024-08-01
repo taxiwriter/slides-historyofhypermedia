@@ -1,6 +1,6 @@
 ---
 title: A very short history of hypermedia
-author: Heinz Wittenbrink
+author: Heinz Wittenbrink and with updates from BB
 rights:  Creative Commons Non-Commercial Share Alike 4.0
 date: 2020-10-13
 bibliography: hoh.bib
