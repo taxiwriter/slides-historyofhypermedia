@@ -57,6 +57,12 @@ Most important topics:
 
 # The concept of linked information
 
+## The Control of Vannevar Bush
+
+>Not only control is the massage!
+
+---
+
 ## Vannevar Bush: Memex
 
 
